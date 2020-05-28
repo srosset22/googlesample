@@ -1,6 +1,6 @@
 # My Favorite Foods
 
 These are things I like to eat:
-    - Pizza
-    - Ice cream
-    - Pasta
+1. Pizza
+2. Ice cream
+3. Pasta
